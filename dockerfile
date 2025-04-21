@@ -13,3 +13,4 @@ RUN yarn install --production
 
 # Start the application
 CMD ["node", "/src/index.js"]
+
